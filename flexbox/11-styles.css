@@ -531,11 +531,11 @@
 
   .hero-article {
     background-size: 150rem 100rem;
-    background-position: 5% 0;
+    background-position: 50% 0;
     }
 
   .hero-article::before {
-    content: none;
+    content: "";
     background: rgba(0, 0, 0, 0.8);
     position: absolute;
     top: 0;
@@ -556,4 +556,3 @@
     padding: 7rem 0 0;
     z-index: 2;
   }
-  
