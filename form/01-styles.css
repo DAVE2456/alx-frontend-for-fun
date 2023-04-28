@@ -645,7 +645,8 @@
   .tag-list li:last-child::after {
     content: "";
   }
-  
+
+
   /*** FORM ***/
   /* Comment section
       ============================= */
@@ -668,4 +669,3 @@
     padding: 1rem 0;
     margin: 0;
   }
-  
